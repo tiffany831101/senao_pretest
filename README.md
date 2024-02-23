@@ -1,4 +1,7 @@
-# User Account API Documentation
+# Installation
+`docker-compose up -d --build`
+
+# API Documentation
 
 ## Create User Account
 
